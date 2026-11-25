@@ -7,7 +7,9 @@
 Do not spend your first paycheck on that mechanical keyboard with the lights; the lights will not make you type faster.
 It mattered because I learned the hard way that buying tools is not the same as doing the work, and the keyboard is still gathering dust.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the two lines above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -15,6 +17,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-suga-two-lines-to-your-past-self-f36c83ca -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-suga-two-lines-to-your-past-self-f36c83ca).</sub>
